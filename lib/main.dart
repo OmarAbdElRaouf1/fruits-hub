@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       home: Scaffold(
-        appBar: AppBar(title: const Text('Flutter Demo Home Page')),
+        appBar: AppBar(title: const Text('Flutter Demo Home Page  ')),
         body: const Center(child: Text('Hello, World!')),
       ),
     );
