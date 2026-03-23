@@ -4,7 +4,7 @@ import 'package:fruits_market/constants.dart';
 import 'package:fruits_market/core/services/shared_preferences.dart';
 import 'package:fruits_market/core/utils/app_colors.dart';
 import 'package:fruits_market/core/widgets/custom_button.dart';
-import 'package:fruits_market/features/auth/presentation/views/login.dart';
+import 'package:fruits_market/features/auth/presentation/views/login/login.dart';
 import 'package:fruits_market/features/on_baording/presentation/views/widgets/on_boarding_page_view.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 

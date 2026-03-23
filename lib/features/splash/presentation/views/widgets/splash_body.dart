@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:fruits_market/constants.dart';
 import 'package:fruits_market/core/services/shared_preferences.dart';
 import 'package:fruits_market/core/utils/assets.dart';
-import 'package:fruits_market/features/auth/presentation/views/login.dart';
+import 'package:fruits_market/features/auth/presentation/views/login/login.dart';
 import 'package:fruits_market/features/on_baording/presentation/views/on_boarding.dart';
 import 'package:svg_flutter/svg.dart';
 
