@@ -22,6 +22,7 @@ class FruitsMarketApp extends StatelessWidget {
       designSize: const Size(375, 812),
       minTextAdapt: true,
       splitScreenMode: true,
+
       child: MaterialApp(
         theme: ThemeData(fontFamily: 'Cairo'),
         localizationsDelegates: [
